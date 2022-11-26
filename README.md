@@ -1,15 +1,12 @@
 - 👋 Hi, I’m @cb59601
-- 👀 I’m interested in ...
-
-      All things dealing with the cyber world as well
-      As android and Linux. 
+- 👀 I’m interested in ...  
 
 - 🌱 I’m currently learning ...
   Learning to code useing Termux 
      with Andronix. 
 
 - 💞️ I’m looking to collaborate on ...
-      Setting up everything for Andronix and Termux. 
+      Setting up Termux, Reddit, GitHub. 
 
 - 📫 How to reach me ...
     Email:stephenwturner77@gmail.com
