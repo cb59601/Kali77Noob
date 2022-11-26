@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @cb59601
-- 👀 I’m interested in ...  
+- 👋 Hi, I’m @CB59601
+-          👀 
 
 - 🌱 I’m currently learning ...
-  Learning to code useing Termux 
-     with Andronix. 
+     Learning to code useing Termux 
+     
 
 - 💞️ I’m looking to collaborate on ...
       Setting up Termux, Reddit, GitHub. 
